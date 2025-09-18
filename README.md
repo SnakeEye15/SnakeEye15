@@ -61,7 +61,11 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/SnakeEye15/SnakeEye15/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <!-- Light mode -->
+  <img src="https://raw.githubusercontent.com/SnakeEye15/SnakeEye15/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
+  
+  <!-- Dark mode -->
+  <img src="https://raw.githubusercontent.com/SnakeEye15/SnakeEye15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
 </p>
 
 ---
