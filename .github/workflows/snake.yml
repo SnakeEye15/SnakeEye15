@@ -1,5 +1,8 @@
 name: Generate Snake Contribution Graph
 
+permissions:
+  contents: write   # ✅ allow pushing to branches
+
 on:
   push:
     branches:
