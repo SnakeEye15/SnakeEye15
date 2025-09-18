@@ -51,7 +51,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/dheeraj-saini15/](https://www.linkedin.com/in/dheeraj-9a580a28a/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dheeraj-9a580a28a/)  
 - 📧 [Email](mailto:sainidheeraj913@gmail.com)  
 
 ---
