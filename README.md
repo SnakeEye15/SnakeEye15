@@ -1,7 +1,8 @@
 <!-- Profile README for SnakeEye15 -->
 
+<!-- 🎯 Profile Banner -->
 <p align="center">
-  <img src="https://github.com/SnakeEye15/SnakeEye15/blob/main/assets/banner.png" alt="Welcome Banner"/>
+  <img src="https://github.com/SnakeEye15/SnakeEye15/blob/main/banner.png" alt="Dheeraj Saini Banner" />
 </p>
 
 # 👋 Hi, I'm Dheeraj Saini  
@@ -60,7 +61,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/SnakeEye15/SnakeEye15/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/SnakeEye15/SnakeEye15/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
