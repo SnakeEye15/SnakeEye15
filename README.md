@@ -40,7 +40,6 @@
 
 - 🔹 [**RestAssuredAutomation**](https://github.com/SnakeEye15/RestAssuredAutomation) – API automation testing framework using RestAssured + TestNG  
 - 🔹 [**ecom**](https://github.com/SnakeEye15/ecom) – Selenium + Java automation framework for E-Commerce website testing  
-- 🔹 [**AI-Powered Virtual Shopping Assistant (AR)**](https://github.com/SnakeEye15/AI-Virtual-Assistant) – BCA final year project exploring AI + AR in e-commerce  
 
 ---
 
