@@ -1,28 +1,45 @@
-# 👋 Hi, I'm Dheeraj (SnakeEye15)
+<!-- Profile README for SnakeEye15 -->
 
-🚀 **QA Automation Engineer | 🌱 Exploring AI/ML & Generative Agents**  
+<p align="center">
+  <img src="https://github.com/SnakeEye15/SnakeEye15/blob/main/assets/banner.png" alt="Welcome Banner"/>
+</p>
 
-💡 Passionate about building reliable automation frameworks, testing at scale, and diving into the era of AI.  
-📚 Currently working in **QA Automation** while learning **AI/ML, LangChain, and Generative AI** side by side.  
-🤝 Open to collaborations in **Automation, AI, and Open Source**.  
+# 👋 Hi, I'm Dheeraj Saini  
+
+💻 QA Automation Engineer | Aspiring **SDET**  
+🚀 Exploring **AI/ML, Agentic AI, and Generative AI**  
+🔍 Passionate about **Test Automation & Open Source**  
+🎯 Goal: Build impactful solutions with **AI-powered testing**  
+⚡ Fun fact: I love building things that save time ⏳  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, Python  
-**QA/Automation:** Selenium, RestAssured, TestNG, JUnit  
-**AI/ML (Learning):** TensorFlow, LangChain, HuggingFace  
-**Build & Tools:** Maven, Git, Jenkins, IntelliJ IDEA  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  
+  <!-- Automation -->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RestAssured-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-- 🔹 [**RestAssuredAutomation**](https://github.com/SnakeEye15/RestAssuredAutomation) – API Testing Framework using RestAssured & TestNG  
-- 🔹 [**Ecom-API-Automation**](https://github.com/SnakeEye15/ecom) – E-commerce API Automation Suite  
-- 🔹 [**InterviewQuestions**](https://github.com/SnakeEye15/InterviewQuestions) – QA & API Interview Prep Collection  
-- 🔹 [**ProjectTesting**](https://github.com/SnakeEye15/ProjectTesting) – Git & Java Testing Playground  
+- 🔹 [**RestAssuredAutomation**](https://github.com/SnakeEye15/RestAssuredAutomation) – API automation testing framework using RestAssured + TestNG  
+- 🔹 [**ecom**](https://github.com/SnakeEye15/ecom) – Selenium + Java automation framework for E-Commerce website testing  
+- 🔹 [**AI-Powered Virtual Shopping Assistant (AR)**](https://github.com/SnakeEye15/AI-Virtual-Assistant) – BCA final year project exploring AI + AR in e-commerce  
 
 ---
 
@@ -40,18 +57,18 @@
 
 ---
 
-## 🌍 Open Source & Learning Goals
+## 🐍 Contribution Graph
 
-- 🔭 Exploring **AI/ML frameworks** (LangChain, HuggingFace, TensorFlow)  
-- 🤝 Looking to collaborate on **QA Automation** and **AI Agentic projects**  
-- 🧩 Building expertise in **Java Automation**, **Generative AI**, and **Software Testing tools**  
-- ✨ Plan to contribute to **SeleniumHQ, LangChain, HuggingFace, and Playwright** repos  
-
----
-
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/dheeraj-9a580a28a/)  
-- 📧 [Email](mailto:sainidheeraj913@gmail.com)  
+<p align="center">
+  <img src="https://github.com/SnakeEye15/SnakeEye15/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 
 ---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dheeraj-9a580a28a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sainidheeraj913@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SnakeEye15"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
